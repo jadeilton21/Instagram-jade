@@ -5,8 +5,8 @@
         "id": 1,
         "author": {
           "id": 1,
-          "name": "John Doe",
-          "profilePic": "https://ej2.syncfusion.com/demos/src/grid/images/1.png"
+          "name": "Jadeilton De Almeida",
+          "profilePic": "../assets/eu.png"
         },
         "title": "Post 1",
         "images": [
@@ -71,7 +71,7 @@
             "https://example.com/fan2-profile-pic.jpg",
             "https://example.com/fan3-profile-pic.jpg"
           ],
-          "first": "Pedro"
+          "first": "Marcos"
         }
       },
       {
