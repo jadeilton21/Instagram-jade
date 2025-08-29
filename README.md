@@ -1,27 +1,48 @@
-# InstagramJade
+# 📸 Instagram Clone - SSG Frontend  
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+Este projeto é uma aplicação desenvolvida com a abordagem **SSG (Static Site Generation)**, onde o conteúdo é pré-renderizado em tempo de build, gerando páginas estáticas rápidas e otimizadas.  
 
-## Development server
+O objetivo foi simular a interface de postagens do Instagram, trazendo exemplos criativos de interação e exibição de posts com imagens.  
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🚀 Tecnologias Utilizadas
+- **Angular** (para construção do front-end)  
+- **SSG (Static Site Generation)**  
+- **HTML5 / CSS3**  
+- **TypeScript**  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## ⚡ Benefícios do SSG
+- Maior **desempenho** e **escalabilidade** do site.  
+- Melhor **SEO**, pois os mecanismos de busca conseguem indexar conteúdo pré-renderizado facilmente.  
+- Redução do tempo de carregamento das páginas.  
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 📷 Demonstração  
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Aqui está um exemplo de como a aplicação renderiza os posts:  
 
-## Running end-to-end tests
+![Demonstração do Projeto](./screencapture-localhost-4200-explore-br-2025-08-29-16_11_14.png)  
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## 🔧 Como Rodar o Projeto
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+# Entre na pasta do projeto
+cd seu-repositorio
+
+# Instale as dependências
+npm install
+
+# Rode em ambiente de desenvolvimento
+npm start
+
+# Gerar build estática
+npm run build
