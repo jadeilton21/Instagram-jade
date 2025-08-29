@@ -25,7 +25,7 @@ O objetivo foi simular a interface de postagens do Instagram, trazendo exemplos 
 
 Aqui está um exemplo de como a aplicação renderiza os posts:  
 
-![Demonstração do Projeto](./screencapture-localhost-4200-explore-br-2025-08-29-16_11_14.png)  
+![Diagrama](./instagram-et.png)  
 
 ---
 
